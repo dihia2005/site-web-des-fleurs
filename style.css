@@ -43,9 +43,9 @@ header .logo span {
   color: var(--pink);
 }
 header .navbar a {
-  font: size 2rem;
+  font: size 4rem;
   padding: 0 1.5rem;
-  color: gainsboro;
+  color: rgb(164, 116, 136);
 }
 header .navbar a:hover {
   color: var(--pink);
