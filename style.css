@@ -32,7 +32,7 @@ header {
   align-items: center;
   justify-content: space-between;
   z-index: 1000;
-  box-shadow: 0.5rem 1rem rgba(red, 0, 0, 0, 1);
+  box-shadow: 0.5rem 1rem rgba(rgb(26, 15, 15), 0, 0, 0, 1);
 }
 header .logo {
   font-size: 3rem;
@@ -45,7 +45,7 @@ header .logo span {
 header .navbar a {
   font: size 4rem;
   padding: 0 1.5rem;
-  color: rgb(164, 116, 136);
+  color: rgb(57, 14, 174);
 }
 header .navbar a:hover {
   color: var(--pink);
